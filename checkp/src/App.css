@@ -4,6 +4,8 @@
   justify-content: center;
 	align-items: center;
 	text-align: center;
+  font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+ 
 }
 
 .title{ 
@@ -12,15 +14,8 @@
   font-size: 30px;
 }
 
-body {
-  font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-  margin: 0;
-  font-size: 1rem;
-  font-weight: 1.5;
-  line-height: 1.5;
-  color: #292b2c;
-  background-color: pink;
-}
+
+
 
 img{
   height: 300px;
